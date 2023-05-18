@@ -9,7 +9,7 @@ namespace fukuv0518
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("â¡ì°Å@èπíà");
+            button1.Text = "â¡ì°Å@èπíà";
         }
 
         private void button2_Click(object sender, EventArgs e)
